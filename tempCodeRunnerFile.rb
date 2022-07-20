@@ -1,1 +1,0 @@
-redirect_uri: "http://example.com/redirect"
